@@ -1,24 +1,23 @@
 # Car-rental-Dapp
 
 Dependencies
-Install these prerequisites to follow along with the tutorial. See free video tutorial or a full explanation of each prerequisite.
+Install these prerequisites 
 
-NPM: https://nodejs.org
-Truffle: https://github.com/trufflesuite/truffle
-Ganache: http://truffleframework.com/ganache/
-Metamask: https://metamask.io/
+1. NPM: https://nodejs.org
+2. Truffle: https://github.com/trufflesuite/truffle
+3. Ganache: http://truffleframework.com/ganache/
+4. Metamask: https://metamask.io/
 # Step 1. Clone the project
 git clone https://github.com/dappuniversity/election
 
 # Step 2. Install dependencies
-$ cd Car-Rent-BlockChainApp
-$ npm install
+1. $ cd Car-Rent-BlockChainApp
 # Step 3. Start Ganache
-Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. See free video tutorial for full explanation.
+Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. explanation.
 
 # Step 4. Compile & Deploy Election Smart Contract
-$ truffle compile
-$ truffle migrate 
+1. $ truffle compile
+2. $ truffle migrate 
 
 # Step 5. Configure Metamask
 
